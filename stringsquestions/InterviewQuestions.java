@@ -8,8 +8,8 @@ public class InterviewQuestions {
     /**
      * Maximum occurring character in an input string
      *Input: ”test sample”
-     * Output: 'e'
-     * ‘t’, ‘e’ and ‘s’ appears 2 times, but ‘e’ is the lexicographically smallest character.
+     * Output: 't'
+     * 
      *
      * Input:”test”
      * Output:'t'
